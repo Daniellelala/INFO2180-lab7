@@ -1,0 +1,20 @@
+body{
+    background-color: #DEB887;
+    font: 14px, Arial, normal;
+}
+
+h1{
+    font-family: Verdana;
+    font-size: 35px;
+    text-align: center;
+    color: #281b0b;
+}
+
+#lookup{
+    border-radius: 5px;
+}
+
+div{
+    font-family: Arial;
+    font-weight: bold;
+}
